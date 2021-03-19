@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialogPrimaryTextColor">#1c3766</color>
+    <color name="dialogButtonTextColor">#1c3766</color>
+    <color name="dialogDefaultBackground">#FFFFFF</color>
+    <color name="dialogButtonBackgroundColor">#448AFF</color>
+</resources>

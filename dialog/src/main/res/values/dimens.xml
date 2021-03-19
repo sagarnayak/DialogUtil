@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="dialogTextSize">@dimen/_14ssp</dimen>
+    <dimen name="dialogButtonSize">@dimen/_12ssp</dimen>
+    <dimen name="dialogCornerRadius">@dimen/_5sdp</dimen>
+    <dimen name="dialogButtonHeight">@dimen/_24sdp</dimen>
+</resources>

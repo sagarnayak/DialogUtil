@@ -1,0 +1,8 @@
+<resources>
+    <string name="dialogFailedDefaultString">Failed</string>
+    <string name="dialogUploadingDefaultString">Uploading</string>
+    <string name="dialogSuccessDefaultString">Success</string>
+    <string name="dialogDefaultCancelText">Cancel</string>
+    <string name="dialogDefaultOKText">Ok</string>
+    <string name="dialogDefaultProcessingText">Processing</string>
+</resources>
