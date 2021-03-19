@@ -65,6 +65,7 @@
                     android:id="@+id/button_action_one"
                     style="@style/dialogButtonStyle"
                     android:layout_width="wrap_content"
+                    android:layout_height="@dimen/dialogButtonHeight"
                     android:layout_marginEnd="@dimen/_4sdp"
                     android:background="@drawable/transperent_button_bg"
                     android:text="@string/dialogDefaultOKText" />
@@ -73,6 +74,7 @@
                     android:id="@+id/button_action_two"
                     style="@style/dialogButtonStyle"
                     android:layout_width="wrap_content"
+                    android:layout_height="@dimen/dialogButtonHeight"
                     android:layout_marginStart="@dimen/_4sdp"
                     android:background="@drawable/transperent_button_bg"
                     android:text="@string/dialogDefaultCancelText" />

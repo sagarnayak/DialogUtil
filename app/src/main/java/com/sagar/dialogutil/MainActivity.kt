@@ -18,12 +18,30 @@ class MainActivity : AppCompatActivity() {
                 },
                 4000
             )
+
+        Handler(Looper.getMainLooper())
+            .postDelayed(
+                {
+                    showDialogWithTwoButton()
+                },
+                8000
+            )
     }
 
     private fun showDialog(){
         DialogUtil(this)
             .showMessage(
                 "This is a test."
+            )
+    }
+
+    private fun showDialogWithTwoButton(){
+        DialogUtil(this)
+            .showMessage(
+                "This is another test.",
+                cancellable = false,
+                buttonOneText = "Ok",
+                buttonTwoText = "Cancel"
             )
     }
 }
