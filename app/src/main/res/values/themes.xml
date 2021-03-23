@@ -12,24 +12,5 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
-        <item name="dialogPrimaryTextColor">#1c3766</item>
-        <item name="dialogButtonTextColor">#1c3766</item>
-        <item name="dialogDefaultBackground">#FFFFFF</item>
-        <item name="dialogButtonBackgroundColor">#448AFF</item>
-
-        <item name="dialogTextFont">@font/roboto_medium</item>
-        <item name="dialogButtonFont">@font/roboto</item>
-
-        <item name="dialogTextSize">@dimen/_14ssp</item>
-        <item name="dialogButtonSize">@dimen/_12ssp</item>
-        <item name="dialogCornerRadius">@dimen/_5sdp</item>
-        <item name="dialogButtonHeight">@dimen/_24sdp</item>
-
-        <item name="dialogFailedDefaultString">Failed</item>
-        <item name="dialogUploadingDefaultString">Uploading</item>
-        <item name="dialogSuccessDefaultString">Success</item>
-        <item name="dialogDefaultCancelText">Cancel</item>
-        <item name="dialogDefaultOKText">Ok</item>
-        <item name="dialogDefaultProcessingText">Processing</item>
     </style>
 </resources>

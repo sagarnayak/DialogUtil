@@ -12,14 +12,12 @@
     </style>
 
     <style name="dialogTextStyle" parent="Widget.AppCompat.TextView">
-        <item name="android:textColor">?attr/dialogPrimaryTextColor</item>
-        <item name="android:textSize">?attr/dialogTextSize</item>
-        <item name="android:fontFamily">?attr/dialogTextFont</item>
+        <item name="android:textColor">@color/dialogPrimaryTextColor</item>
+        <item name="android:textSize">@dimen/dialogTextSize</item>
     </style>
 
     <style name="dialogButtonStyle" parent="TextAppearance.AppCompat.Button">
-        <item name="android:textColor">?attr/dialogButtonTextColor</item>
-        <item name="android:textSize">?attr/dialogButtonSize</item>
-        <item name="android:fontFamily">?attr/dialogButtonFont</item>
+        <item name="android:textColor">@color/dialogButtonTextColor</item>
+        <item name="android:textSize">@dimen/dialogButtonSize</item>
     </style>
 </resources>
